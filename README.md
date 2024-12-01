@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" src="">
-
 ### Hi, I'm Pradip Wadage! 👋
 ### About Me
 B.Tech in Computer Science, proficient in DBMS.  
